@@ -88,6 +88,7 @@ This project serves as a foundation for future developments in assistive technol
 
 ## Articles published / References
 1.Chunduru Anilkumar; B Venkatesh; S Annapoorna, “Smart Attendance System with Face Recognition using OpenCV”, 22 September 2023
+
 2.Jayaraj Viswanathan1, Kuralamudhan , Navaneethan and Veluchamy , “Smart Attendance System using Face Recognition”, Data Science Insights, 26 February 2024
 
 
