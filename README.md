@@ -57,15 +57,15 @@ Miscellaneous: Haar Cascade Classifier XML file for face detection (haarcascade_
 
 
 ## Output
+#### Output1 - Interface
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+![image](https://github.com/user-attachments/assets/27bcdbae-1ae7-416c-b37d-cf04f8cdbfed)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+#### Output2 - Face captured
+![image](https://github.com/user-attachments/assets/530a543d-edd9-4039-8c27-05b4c296c87f)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
+#### Output3 - Accuracy
+![image](https://github.com/user-attachments/assets/a4b78946-11be-4c06-b996-e8b0ed61edef)
 Detection Accuracy: 96.0% Note: These metrics can be customized based on your actual performance evaluations.
 
 
